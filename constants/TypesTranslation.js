@@ -1,0 +1,20 @@
+export default typesTranslation = {
+  bug: 'inseto',
+  fire: 'fogo',
+  water: 'água',
+  grass: 'planta',
+  rock: 'pedra',
+  flying: 'voador',
+  fighting: 'lutador',
+  ghost: 'fantasma',
+  psychic: 'psíquico',
+  dragon: 'dragão',
+  fairy: 'fada',
+  ground: 'terra',
+  poison: 'veneno',
+  electric: 'elétrico',
+  normal: 'normal',
+  ice: 'gelo',
+  dark: 'sombrio',
+  steel: 'aço'
+};
